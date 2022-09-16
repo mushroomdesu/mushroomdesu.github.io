@@ -94,7 +94,12 @@ li:hover{
     top: -16px;
     left: 0px;
     border-bottom: 3px solid #163469;
-    padding: 5px;
+    padding: 5.5px;
+}
+
+.card1_text{
+    position: relative;
+    top: -25px;
 }
 
 .card2{
@@ -140,6 +145,11 @@ left: 30px;
     padding: 5px;
 }
 
+.card3_text{
+    position: relative;
+    top: -11px;
+}
+
 .aboutMe{
     width: 600px;
     height: 160px;
@@ -177,4 +187,5 @@ left: 30px;
     top: 200px;
     padding: 50px 0;
     background-color: #333333;
+    color: #EFEFEF;
   }
