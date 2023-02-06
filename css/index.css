@@ -82,10 +82,10 @@ body{
 
 .discord{
     position: relative;
-    right: 10px;
+    left: 160px;
     top: 20px;
     height: 30px;
-    width: auto;
+    width: 39.5px;
 }
 
 .discordLogo{
@@ -94,10 +94,10 @@ body{
 
 .misskey{
     position: relative;
-    right: 60px;
+    left: 110px;
     bottom: 12px;
     height: 35px;
-    width: auto;
+    width: 35px;
 }
 
 .misskeyLogo{
