@@ -92,16 +92,26 @@ body{
     height: 100%;
 }
 
-.misskey{
+.discord :hover{
+    opacity: 80%;
+    transition: 0.3s;
+}
+
+.twitter{
     position: relative;
-    left: 110px;
+    left: 105px;
     bottom: 12px;
     height: 35px;
     width: 35px;
 }
 
-.misskeyLogo{
+.twitterLogo{
     height: 100%;
+}
+
+.twitter :hover{
+    opacity: 80%;
+    transition: 0.3s
 }
 
 .footer{
