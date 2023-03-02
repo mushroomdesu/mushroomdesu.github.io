@@ -1,12 +1,12 @@
 :root{
-    --c-background-base: #CCCCCC; /*body-light*/
-    --c-background-primary: #DADADA; /*board-light*/
+    --c-background-base: #D8DEE9; /*body-light*/
+    --c-background-primary: #ECEFF4; /*board-light*/
     --c-text-base: #000000; /*text-light*/
   }
   @media (prefers-color-scheme: dark) {
     :root{
-      --c-background-base: #202020; /*body-dark*/
-      --c-background-primary: #303030; /*board-dark*/
+      --c-background-base: #181a20; /*body-dark*/
+      --c-background-primary: #232831; /*board-dark*/
       --c-text-base: #EFEFEF; /*text-dark*/
     }
   }
@@ -106,7 +106,7 @@ body{
 }
 
 .twitterLogo{
-    height: 100%;
+    height: 100%;    
 }
 
 .twitter :hover{
