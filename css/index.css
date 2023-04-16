@@ -97,7 +97,7 @@ body{
     transition: 0.3s;
 }
 
-.twitter{
+/*.twitter{
     position: relative;
     left: 105px;
     bottom: 12px;
@@ -112,7 +112,7 @@ body{
 .twitter :hover{
     opacity: 80%;
     transition: 0.3s
-}
+}*/
 
 .footer{
     font-family: sans-serif;
