@@ -84,6 +84,11 @@ body{
     text-align: left;
 }
 
+.gf{
+    text-decoration: none;
+    color: #6976f3
+}
+
 .discord{
     position: relative;
     left: 340px;
@@ -181,6 +186,11 @@ body{
     text-align: left;
 }
 
+.gf{
+    text-decoration: none;
+    color: #6976f3
+}
+    
 .discord{
     position: relative;
     left: 85%;
